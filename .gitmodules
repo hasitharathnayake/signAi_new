@@ -1,0 +1,3 @@
+[submodule "imagePreprocessing"]
+	path = imagePreprocessing
+	url = https://github.com/hasitharathnayake/signAi.git
