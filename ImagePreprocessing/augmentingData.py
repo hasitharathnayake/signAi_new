@@ -4,7 +4,6 @@ import os
 from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_array, load_img
 
 letters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","del","nothing","space"]
-#letters = ["A"]
 # Parameters here are chosen to ensure images still retain its fundamental integrity
 # tolerences for shear and zoom does not affect the ability to comprehend the image.
 # augmenting is done to ensure various orientations and lighting conditions are
